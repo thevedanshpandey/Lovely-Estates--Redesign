@@ -1,0 +1,7 @@
+{
+  "name": "Lovely Estates - Ultra-Luxury Real Estate Mumbai",
+  "description": "A premium, high-conversion luxury real estate platform for Lovely Estates, Mumbai, featuring elite residential and commercial properties with a global-standard aesthetic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
