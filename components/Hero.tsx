@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { ChevronDown, ArrowRight } from 'lucide-react';
-import { COMPANY_INFO } from '../constants';
+import { COMPANY_INFO } from '../constants.ts';
 
 const Hero: React.FC = () => {
   return (

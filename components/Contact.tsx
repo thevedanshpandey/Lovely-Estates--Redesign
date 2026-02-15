@@ -1,7 +1,7 @@
 
 import React from 'react';
-import { COMPANY_INFO } from '../constants';
-import SectionTitle from './SectionTitle';
+import { COMPANY_INFO } from '../constants.ts';
+import SectionTitle from './SectionTitle.tsx';
 import { Mail, Phone, MapPin, ArrowRight } from 'lucide-react';
 
 const Contact: React.FC = () => {

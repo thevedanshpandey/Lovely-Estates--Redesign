@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { COMPANY_INFO } from '../constants';
+import { COMPANY_INFO } from '../constants.ts';
 import { Instagram, Linkedin, Facebook, Twitter } from 'lucide-react';
 
 const Footer: React.FC = () => {

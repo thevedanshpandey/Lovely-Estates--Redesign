@@ -1,8 +1,8 @@
 
 import React from 'react';
-import SectionTitle from './SectionTitle';
-import PropertyCard from './PropertyCard';
-import { PROPERTIES } from '../constants';
+import SectionTitle from './SectionTitle.tsx';
+import PropertyCard from './PropertyCard.tsx';
+import { PROPERTIES } from '../constants.ts';
 
 const PropertyGrid: React.FC = () => {
   return (

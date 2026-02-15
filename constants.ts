@@ -1,5 +1,5 @@
 
-import { Property, Service, Testimonial } from './types';
+import { Property, Service, Testimonial } from './types.ts';
 
 export const COMPANY_INFO = {
   name: "Lovely Estates",

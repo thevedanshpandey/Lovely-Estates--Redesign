@@ -1,7 +1,7 @@
 
 import React from 'react';
-import { SERVICES } from '../constants';
-import SectionTitle from './SectionTitle';
+import { SERVICES } from '../constants.ts';
+import SectionTitle from './SectionTitle.tsx';
 import * as LucideIcons from 'lucide-react';
 
 const Services: React.FC = () => {

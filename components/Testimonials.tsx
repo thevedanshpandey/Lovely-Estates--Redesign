@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { TESTIMONIALS } from '../constants';
+import { TESTIMONIALS } from '../constants.ts';
 import { Quote } from 'lucide-react';
 
 const Testimonials: React.FC = () => {
